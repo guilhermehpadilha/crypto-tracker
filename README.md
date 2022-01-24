@@ -1,3 +1,10 @@
+# Crypto Tracker using API CoinGecko
+
+preview
+
+![crypto-tracker](https://user-images.githubusercontent.com/93407143/150859034-53c93ff8-a079-49f2-a52f-0371c0861baa.gif)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
